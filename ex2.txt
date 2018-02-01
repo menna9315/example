@@ -1,0 +1,4 @@
+git log
+git log -n10
+git show
+
